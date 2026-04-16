@@ -18,7 +18,7 @@ Unlike traditional systems, this framework focuses on **post-transaction fraud r
 
 ## 🧠 Architecture
 
-![Architecture Diagram](architecture-diagram.png)
+<img src="diagram.png" width="800"/>
 
 ---
 
